@@ -1,0 +1,11 @@
+{
+  "name": "shopping-mall-map-bn",
+  "version": "1.0.0",
+  "description": "This is backend for the test app for seaching merchants location in big physical shopping malls which help the clients to shop conviniently because it help them to get exact location of the product they want ..",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Virgile",
+  "license": "ISC"
+}
